@@ -25,3 +25,17 @@
                 # 1. View and clean up orphaned packages
                 # 2. View and clean up unused packages
                 # 3. Quit
+                
+# Select one of the options by entering the corresponding number.
+
+# Clean up orphaned packages
+
+# Selecting this option will find and remove all orphaned packages on the system. The script will display a list of orphaned packages and prompt you to confirm their removal. You can also choose to display a table of the orphaned packages before confirming their removal.
+
+#Clean up unused packages
+
+# Selecting this option will find and remove all unused packages on the system. The script will display a list of unused packages and prompt you to select which ones you want to remove. You can also choose to display a table of the unused packages before selecting which ones to remove.
+
+# Quit
+
+# Selecting this option will exit the script.
