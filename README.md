@@ -15,15 +15,15 @@
 
         # To use the script, download it and make it executable:
 
-               https://github.com/darko5r/cleanpack-script.git
-               chmod +x cleanpack.sh
+                  https://github.com/darko5r/cleanpack-script.git
+                  chmod +x cleanpack.sh
 
         # Then, run the script:
 
-               ./cleanpack.sh
+                ./cleanpack.sh
 
         # The script will display a menu with the following options:
 
-                1. View and clean up orphaned packages
-                2. View and clean up unused packages
-                3. Quit
+                # 1. View and clean up orphaned packages
+                # 2. View and clean up unused packages
+                # 3. Quit
