@@ -27,5 +27,3 @@
                 # 1. View and clean up orphaned packages
                 # 2. View and clean up unused packages
                 # 3. Quit
-
-`#hexhex`
