@@ -1,2 +1,2 @@
-# Bash-script-tryouts
-bash script tryouts
+#!/bin/bash
+Bash script that removes orphaned and not used packages (Arch)
