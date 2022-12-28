@@ -11,19 +11,19 @@
     # Arch Linux operating system
     # pacman package manager (installed by default on Arch Linux)
     
-    Usage
+    # Usage
 
-To use the script, download it and make it executable:
+        # To use the script, download it and make it executable:
 
-https://github.com/darko5r/cleanpack-script.git
-chmod +x cleanpack.sh
+               https://github.com/darko5r/cleanpack-script.git
+               chmod +x cleanpack.sh
 
-Then, run the script:
+        # Then, run the script:
 
-./cleanpack.sh
+               ./cleanpack.sh
 
-The script will display a menu with the following options:
+        # The script will display a menu with the following options:
 
-    Clean up orphaned packages
-    Clean up unused packages
-    Quit
+                1. View and clean up orphaned packages
+                2. View and clean up unused packages
+                3. Quit
