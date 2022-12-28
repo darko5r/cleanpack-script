@@ -8,5 +8,5 @@
 
 # Prerequisites
 
-    Arch Linux operating system
-    pacman package manager (installed by default on Arch Linux)
+    # Arch Linux operating system
+    # pacman package manager (installed by default on Arch Linux)
