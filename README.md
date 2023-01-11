@@ -13,7 +13,7 @@
 
         # To use the script, download it and make it executable:
 
-                  https://github.com/darko5r/cleanpack-script.git
+                  git clone https://github.com/darko5r/cleanpack-script.git
                   chmod +x cleanpack.sh
 
         # Then, run the script:
